@@ -20,6 +20,7 @@ Setting up the KVM-RISCV debugging environment is a relatively complex process. 
 # 2 TODO-List
 
 - [ ] `cpu-virt-lab`
+  - [x] `kvm-demo`
   - [ ] `feature-analysis-and-verify`： fpsimd/pmu/...
   - [ ] `get-reg-list`
 - [ ] `int-virt-lab`
